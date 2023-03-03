@@ -1,0 +1,76 @@
+body{
+    background: grey;
+}
+.container{
+    min-width: 100vh;
+    width: auto;
+    background: black;
+}
+input{
+    height: auto;
+    width: 260px;
+    font-size: 55px;
+    background: transparent;
+    border: transparent;
+    text-align: right;
+    color: white;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+.btn{
+    height: 63px;
+    border-radius: 50px;
+    width: 63px;
+    color: white;
+    background: #4E4E4E;
+    font-size: 30px;
+    border: transparent;
+    margin-top: 20px;
+}
+.btn:hover{
+    background: white;
+    color: black;
+    transition-duration: 1s;
+}
+.yellow:hover{
+    background: white;
+    color: black;
+    transition-duration: 1s;
+}
+.ash:hover{
+    background: white;
+    color: black;
+    transition-duration: 1s;
+}
+.yellow{
+    height: 63px;
+    border-radius: 50px;
+    width: 63px;
+    background: orange;
+    color: white;
+    font-size: 30px;
+    border: transparent;
+}
+.ash{
+    height: 63px;
+    border-radius: 50px;
+    width: 63px;
+    background: grey;
+    color: black;
+    font-size: 30px;
+    border: transparent;
+}
+.zero{
+    height: 63px;
+    border-radius: 50pc;
+    width: 128px;
+    color: white;
+    background: #4E4E4E;
+    font-size: 30px;
+    border: transparent;
+}
+.zero:hover{
+    background: white;
+    color: black;
+    transition-duration: 1s;
+}
